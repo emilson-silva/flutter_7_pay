@@ -19,4 +19,3 @@ O método filterAddresses é usado para filtrar os endereços com base na UF e n
 O método build constrói a interface do usuário da aplicação. Ele contém campos de texto para a entrada do usuário, um botão para iniciar a busca, uma lista para exibir os endereços retornados e campos de texto e um botão para o filtro.
 
 A classe Address é um modelo de dados para um endereço. Ela tem um método de Factory fromJson que é usado para criar uma instância de Address a partir de um Map JSON.
-![Texto alternativo](7pay.jpeg)
